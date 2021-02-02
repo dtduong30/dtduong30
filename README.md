@@ -1,12 +1,13 @@
 
 <h1>Hello I'm Duong :wave: </h1>
-<!-- <h2>💻👨‍💻</h2> -->
+
 [![Facebook](https://img.shields.io/badge/Facebook-FB-blue)](https://www.facebook.com/duong.dang.301199/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/aloduongday_/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Miracle30)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rustic3011/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dangtuanduong99@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:endless3011@outlook.com)
+&nbsp;
 
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
