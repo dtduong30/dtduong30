@@ -13,8 +13,8 @@
 - :sparkles: From Vietnam :heartpulse:
 - 👨🏽‍💻 I’m now living in Ho Chi Minh city, studying at HUTECH :school: 
 - :palm_tree: I am going to finish my graduation in information system major :ok_hand: 
-- :owl: I have knowledge of Java, SQL, JavaScripts, React basics :penguin:
-- 🌱 I’m currently learning Data Science, Big Data :point_right: :point_left:
+- :owl: I have knowledge of Java, Python, SQL, PL/SQL, JavaScripts, React basics :penguin:
+- 🌱 I’m currently learning Data Science, Big Data, Data Analyst, Oracle :point_right: :point_left:
 - :relaxed: Pastime :headphones: :soccer: :swimmer: :8ball: :video_game: :beers:
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
 <!-- - 📝 [Resume]() -->
