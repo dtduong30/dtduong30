@@ -12,8 +12,8 @@
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
 - 👨🏽‍💻 Achieved Information System Bachelor Degree with the GPA of 3.4 :ok_hand:  
-- :owl: I have knowledge of Java, Python, SQL, PL/SQL, JavaScripts, ReactJS basics :penguin:
-- :palm_tree: I’m currently learning Data Science, Big Data, Data Analyst, Oracle :point_right: :point_left:
+- :owl: I have knowledge of NodeJS Express, Java, Python, SQL, PL/SQL :penguin:
+- :palm_tree: I’m currently learning Data Science, Data Analyst :point_right: :point_left:
 - :relaxed: Pastime :headphones: :soccer: :swimmer: :8ball: :video_game: :beers:
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
 <!-- - 📝 [Resume]() -->
