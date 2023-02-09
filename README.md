@@ -9,8 +9,8 @@
 
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
-- 👨🏽‍💻 Achieved Information System Bachelor Degree with the GPA of 3.4 :ok_hand:  
-- :owl: I have knowledge of NodeJS Express, NestJS, Java, Python, SQL, PL/SQL :penguin:
+- 👨🏽‍💻 Achieved Information System Bachelor Degree :ok_hand:  
+- :owl: I have knowledge of NodeJS, ExpressJS, NestJS, JavaScript, Python, SQL, PL/SQL :penguin:
 - :relaxed: Pastime :headphones: :soccer: :swimmer: :8ball: :video_game: :beers:
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
 <!-- - 📝 [Resume]() -->
@@ -19,6 +19,8 @@
 
 **📈 My GitHub Stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Miracle30&show_icons=true&theme=maroongold" alt="duong" />
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dtduong30&show_icons=true&theme=maroongold" alt="duong" />
   
  <!--
 **Miracle30/Miracle30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
