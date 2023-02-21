@@ -18,8 +18,8 @@
 
 <p align="center"> <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**📈 My GitHub Stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dtduong30&show_icons=true&theme=maroongold" alt="duong" />
+<!-- **📈 My GitHub Stats**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dtduong30&show_icons=true&theme=maroongold" alt="duong" /> -->
   
  <!--
 **Miracle30/Miracle30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
