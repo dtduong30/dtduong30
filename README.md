@@ -11,7 +11,7 @@
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
 - 👨🏽‍💻 Achieved Information System Bachelor Degree :ok_hand:  
-- :owl: I have knowledge of NodeJS, ExpressJS, NestJS, JavaScript, Python, SQL, PL/SQL, Java :penguin:
+- :owl: I have knowledge of NodeJS, JavaScript, TypeScript, Python, SQL, PL/SQL and some frameworks: Nestjs, Nextjs, Expressjs, Remix, SST, Ethersjs, Meteorjs, Svelte  :penguin:
 - :relaxed: Pastime :headphones: :soccer: :swimmer: :8ball: :video_game: :beers:
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
 <!-- - 📝 [Resume]() -->
