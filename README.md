@@ -9,9 +9,9 @@
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
 - 👨🏽‍💻 Achieved Information System Bachelor Degree :ok_hand:  
-- :owl: I possess expertise in **NodeJS**, including frameworks such as **NestJS**, **Next.js**, **Express.js**, **Remix**, **SST**, **Ethers.js**, **Meteor.js**, and **Svelte**. Additionally, I am skilled in **Java**, **JavaScript**, **TypeScript**, **Python**, **SQL**, and **PL/SQL**.
-  :penguin:
-- :relaxed: Pastime :headphones: :soccer: :swimmer: :8ball: :video_game: :beers:
+- :owl: Proficient in both front-end and back-end
+- :penguin: Quick learner and love to learn new technologies
+- :relaxed: Pastime :beers: :headphones: :soccer: :swimmer: :8ball: :video_game: 
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
 <!-- - 📝 [Resume]() -->
 
