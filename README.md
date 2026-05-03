@@ -2,10 +2,17 @@
 <h1>Hello I'm Duong :wave: </h1>
 <h2>Simplifying tough issues with a smile</h2>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_yadgnoud3011/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rustic3011/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dangtuanduong99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Duong-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://duong-vippro-portfolio.vercel.app)
+<p align="left">
+  <a href="https://www.linkedin.com/in/rustic3011/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dangtuanduong99@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://duong-vippro-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Duong-00D4AA?style=flat&logo=trustpilot&logoColor=white"/>
+  </a>
+</p>
 
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
