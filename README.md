@@ -5,12 +5,12 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_yadgnoud3011/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rustic3011/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dangtuanduong99@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Duong-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://duong-vippro-portfolio.vercel.app)
 
 **:eyes: About me :ophiuchus:**
 - :sparkles: From Vietnam :heartpulse:
-- 👨🏽‍💻 Achieved Information System Bachelor Degree :ok_hand:  
 - :owl: Proficient in both front-end and back-end
-- :penguin: Quick learner and love to learn new technologies
+- :penguin: I’m a fast learner who enjoys continuously exploring and adopting new technologies
 - :relaxed: Pastime :beers: :headphones: :soccer: :swimmer: :8ball: :video_game: 
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
 <!-- - 📝 [Resume]() -->
