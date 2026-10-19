@@ -12,7 +12,6 @@
   <a href="https://duong-atelier.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Duong-00D4AA?style=flat&logo=trustpilot&logoColor=white"/>
   </a>
-  <a href="mailto:dangtuanduong99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 **:eyes: About me :ophiuchus:**
