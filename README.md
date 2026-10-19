@@ -20,7 +20,7 @@
 defmodule Duong do
   @moduledoc "SE from Vietnam"
 
-  defstruct location: "Hochiminh City",
+  defstruct location: "Ho Chi Minh City",
             role: :full_stack,
             stack: [front_end: :proficient, back_end: :proficient],
             superpower: "learns new tech faster than it ships",
