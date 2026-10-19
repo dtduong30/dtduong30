@@ -3,23 +3,49 @@
 <h2>Simplifying tough issues with a smile</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rustic3011/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/rustic3011/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:dangtuanduong99@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://duong-vippro-portfolio.vercel.app" target="_blank">
+  <a href="https://duong-atelier.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Duong-00D4AA?style=flat&logo=trustpilot&logoColor=white"/>
   </a>
+  <a href="mailto:dangtuanduong99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 **:eyes: About me :ophiuchus:**
+
+```elixir
+defmodule Duong do
+  @moduledoc "SE from Vietnam"
+
+  defstruct location: "Hochiminh City",
+            role: :full_stack,
+            stack: [front_end: :proficient, back_end: :proficient],
+            superpower: "learns new tech faster than it ships",
+            afk: ~w(🍻 🎧 ⚽ 🏊 🎱 🎮),
+            contact: "dangtuanduong99@gmail.com"
+
+  def new_tech(tech), do: tech |> explore() |> adopt() |> ship()
+
+  def status(%__MODULE__{afk: hobbies}, :weekend), do: Enum.random(hobbies)
+  def status(_me, _day), do: {:ok, :coding}
+end
+
+%Duong{} |> Duong.status(:weekend)
+#=> "⚽"
+```
+
+<!--
 - :sparkles: From Vietnam :heartpulse:
 - :owl: Proficient in both front-end and back-end
 - :penguin: I’m a fast learner who enjoys continuously exploring and adopting new technologies
 - :relaxed: Pastime :beers: :headphones: :soccer: :swimmer: :8ball: :video_game: 
 - 📫 Reach me: dangtuanduong99@gmail.com  :four_leaf_clover:
+-->
+
 <!-- - 📝 [Resume]() -->
 
 <p align="center"> <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
